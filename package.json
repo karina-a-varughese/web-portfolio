@@ -1,7 +1,7 @@
 {
   "name": "web-portfolio",
   "homepage": "https://karina-a-varughese.github.io/web-portfolio/",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
